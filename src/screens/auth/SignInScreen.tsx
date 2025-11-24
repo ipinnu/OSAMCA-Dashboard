@@ -12,7 +12,7 @@ import {
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { AuthStackParamList } from '../../types/navigation.types';
 import { useAuth } from '../../contexts/AuthContext';
-import Input from '../components/common/Input';
+ import Input from '../../components/common/Input';
 import Button from '../../components/common/Button';
 import { LinearGradient } from 'expo-linear-gradient';
 
